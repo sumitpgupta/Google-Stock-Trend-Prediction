@@ -1,6 +1,7 @@
 # Google-Stock-Trend-Prediction
 This is the code for a 4-layered recurrent neural network that predicts the trends in Google stock price based on previous 5 years of Stock data.
-I built the model using the Keras library, which is built on top of Tensorflow and Theano. The inputs are numeric values of opening and closing stock price for 5 years from 2012 to 2016. The prediction is done for the Opening stock value for the month of January 2017. I used adam for stochastic optimization, and mean_squared_error as the loss function.
+I built the model using the Keras library, which is built on top of Tensorflow and Theano. The inputs are numeric values of opening and closing stock price for 5 years from 2012 to 2016. 
+The prediction is done for the Opening stock value for the month of January 2017. I used adam for stochastic optimization, and mean_squared_error as the loss function.
 # Dependencies
 ● tensorflow ● keras ● numpy ● pandas ● scikit-learn
 # Dataset
