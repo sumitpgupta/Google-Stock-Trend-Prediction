@@ -31,3 +31,4 @@ Epoch 100/100
 1198/1198 [==============================] - 7s - loss: 0.0014     
 
 ```
+![alt text](https://github.com/sumitpgupta/Google-Stock-Trend-Prediction/blob/master/Real%20Vs%20Predicted%20Stock%20price.png)
